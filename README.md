@@ -4,7 +4,7 @@ This project is a Skin Care Product Recommendation System that utilizes a genera
 
 ## Prerequisites
 
-Before running the project, ensure you have the following:
+Before running the project, ensure you have the following :
 
 1. **DISCORD_BOT_TOKEN**: Your Discord bot token.
 2. **GOOGLE_API_KEY**: Your Google API key.
