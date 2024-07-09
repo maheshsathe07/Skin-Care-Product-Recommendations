@@ -65,6 +65,12 @@ When a user sends a prompt to the Discord bot, the `recommendations.py` file is 
 3. In your Discord server, enter a prompt in the format `!recommend your_prompt`.
 4. The bot will respond with product recommendations based on the input prompt.
 
+## Screenshots
+
+![Image1](screenshots/image1.png)
+![Image2](screenshots/image2.png)
+![Image3](screenshots/image3.png)
+
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
